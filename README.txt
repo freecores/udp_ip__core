@@ -205,19 +205,21 @@ The development board HTG-V5-PCIE by HiTech Global populated with a V5SX95T-1 FP
 
 The Spartan3 configuration has not been hardware-verified!
 
+It has been verified on Virtex 6 FPGA by users!
+
 
 Citation
 --------
 
 By using this component in any architecture design and associated publication, you agree to cite it as: 
 "Efficient PC-FPGA Communication over Gigabit Ethernet", by Nikolaos Alachiotis, Simon A. Berger and Alexandros Stamatakis, 
-The Exelixis Lab, Exelixis-RRDR-2010-4, TU Munich, February 2010.
+IEEE ICESS 2010, June/July 2010.
 
 
 Authors and Contact Details 
 ---------------------------
 
-Nikos Alachiotis			alachiot@in.tum.de , n.alachiotis@gmail.com
+Nikos Alachiotis			n.alachiotis@gmail.com
 Simon A. Berger				bergers@in.tum.de
 Alexandros Stamatakis 			stamatak@in.tum.de
 
@@ -234,11 +236,12 @@ Copyright
 This component is free. In case you use it for any purpose, particularly 
 when publishing work relying on this component you must cite it as:
 
-IPv4 PACKET TRANSMITTER by Nikolas Alachiotis and Alexandros Stamatakis, The Exelixis Lab, TU Munich, distributed by the authors via
-http://wwwkramer.in.tum.de/exelixis/
+N. Alachiotis, S.A. Berger, A. Stamatakis: "Efficient PC-FPGA Communication over Gigabit Ethernet". IEEE ICESS 2010, June/July 2010.
+
+
 
 You can redistribute it and/or modify
-it under the terms of the GNU General Public License as published by
+it under the terms of the GNU Lesser General Public License as published by
 the Free Software Foundation; either version 2 of the License, or
 (at your option) any later version.
 
